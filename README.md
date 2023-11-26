@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alter-White&show_icons=true&theme=radical)
 <!--
 **Alter-White/Alter-White** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
