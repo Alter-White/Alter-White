@@ -25,7 +25,7 @@ Currently, my focus lies in web technologies, and I am enthusiastic about everyt
 
 <div align="center">
   <img src="https://github-readme-stats-eosin-two.vercel.app/api?username=Alter-White&count_private=true&hide=issues,contribs&show=reviews&show_icons=true&rank_icon=github&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-eosin-two.vercel.app/api/top-langs/?username=Alter-White&count_private=true&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats-eosin-two.vercel.app/api/top-langs/?username=Alter-White&count_private=true&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />-->
 </div>
 
 ###
