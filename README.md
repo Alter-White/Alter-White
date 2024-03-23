@@ -4,22 +4,26 @@ My name is Ivan, and I have been fascinated by information technology since chil
 
 Currently, my focus lies in web technologies, and I am enthusiastic about everything related to the development of web applications and websites. My education and practical experience empower me to explore and apply new concepts in this dynamic industry, and I am always open to learning about emerging technologies and working on interesting projects.
 
-### 📜 Languages:
+### 📚 My stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 🌱 I’m currently learning:
 
-![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+
 
 ### 💻 Application and Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/FIGMA-white?style=for-the-badge&logo=FIGMA&logoColor=black)
+![Figma](https://img.shields.io/badge/FIGMA-white?style=for-the-badge&logo=FIGMA&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%231b1b1f?style=for-the-badge&logo=vite&logoColor=%23646CFF)
+
 
 ###
 
