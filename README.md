@@ -1,18 +1,17 @@
 # Hi there 👋
 
-My name is Ivan, and I have been fascinated by information technology since childhood. My profound interest in this field led me to enroll in university, where I successfully completed the Computer Engineering faculty and earned a master's degree.
-
-Currently, my focus lies in web technologies, and I am enthusiastic about everything related to the development of web applications and websites. My education and practical experience empower me to explore and apply new concepts in this dynamic industry, and I am always open to learning about emerging technologies and working on interesting projects.
+I am a Frontend developer with strong knowledge of HTML5, CSS3, and JavaScript, and have experience with React. I have a keen eye for design and a passion for creating responsive, user-friendly web applications. Additionally, I enjoy collaborating with cross-functional teams to bring innovative ideas to life and continuously improve user experiences.
 
 ### 📚 My stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 
 ### 🌱 I’m currently learning:
 
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E)
 
 
 ### 💻 Application and Tools:
